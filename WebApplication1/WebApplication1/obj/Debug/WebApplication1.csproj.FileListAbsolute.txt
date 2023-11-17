@@ -70,8 +70,8 @@ C:\Users\cruz\Documents\GitHub\test_19_05_2018\WebApplication1\WebApplication1\b
 C:\Users\cruz\Documents\GitHub\test_19_05_2018\WebApplication1\WebApplication1\bin\es\System.Web.Webpages.Razor.resources.dll
 C:\Users\cruz\Documents\GitHub\test_19_05_2018\WebApplication1\WebApplication1\bin\es\System.Web.Helpers.resources.dll
 C:\Users\cruz\Documents\GitHub\test_19_05_2018\WebApplication1\WebApplication1\bin\es\System.Web.Mvc.resources.dll
-C:\Users\cruz\Documents\GitHub\test_19_05_2018\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 C:\Users\cruz\Documents\GitHub\test_19_05_2018\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
 C:\Users\cruz\Documents\GitHub\test_19_05_2018\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 C:\Users\cruz\Documents\GitHub\test_19_05_2018\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\cruz\Documents\GitHub\test_19_05_2018\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\cruz\Documents\GitHub\test_19_05_2018\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
